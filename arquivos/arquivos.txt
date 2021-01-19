@@ -1,16 +1,24 @@
-#Portfolio
+00 - Portfolio
 https://github.com/everaldobass/portifolio
 
-#Site de Fotos
+01 - Site de Fotos
 https://unsplash.com/
 
-#Site de Fonts
+02 - Site de Fonts
 https://fonts.google.com/
 
 
-#Site de Icons
+03 - Site de Icons
 https://cdnjs.com/libraries/font-awesome
 https://favicon.io/favicon-generator/
+
+04 - Site de Gradientes
+https://uigradients.com/#PaleWood
+
+
+
+
+
 
 
 #Configuração Global do Git no terminal
