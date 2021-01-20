@@ -1,5 +1,5 @@
 00 - Portfolio
-https://github.com/everaldobass/portifolio
+https://github.com/everaldobass/portfolio
 
 01 - Site de Fotos
 https://unsplash.com/
