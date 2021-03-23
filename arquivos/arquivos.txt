@@ -7,18 +7,12 @@ https://unsplash.com/
 02 - Site de Fonts
 https://fonts.google.com/
 
-
 03 - Site de Icons
 https://cdnjs.com/libraries/font-awesome
 https://favicon.io/favicon-generator/
 
 04 - Site de Gradientes
 https://uigradients.com/#PaleWood
-
-
-
-
-
 
 
 #Configuração Global do Git no terminal
@@ -37,4 +31,7 @@ git add .
 
 04 - Push no Git
 git push
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
